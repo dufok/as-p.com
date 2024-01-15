@@ -13,6 +13,18 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+          'Interstate': ['Interstate', 'sans-serif'],
+      },
+      fontSize: {
+        '51': '51px',
+        '24': '24px',
+      },
+      spacing: {
+        '18': '4.5rem', // 72px
+        '20': '5rem',   // 80px
+        // Add more as needed
+      },
     },
   },
   plugins: [],

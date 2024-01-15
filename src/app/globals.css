@@ -18,10 +18,22 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: rgba(255, 255, 255, 0);
+}
+
+@font-face {
+  font-family: 'Interstate';
+  src: url('/fonts/Interstate-Fonts/Interstate-thin.ttf') format('truetype');
+  font-weight: 700;
+  font-size: medium;
+}
+
+.gradient-circle {
+  position: absolute;
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  border-radius: 50%;
+  background: radial-gradient(circle at center, rgba(240, 240, 240, 1), rgba(255, 255, 255, 0));
+  z-index: -1;
 }
