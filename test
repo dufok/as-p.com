@@ -1,0 +1,182 @@
+<div class="LayoutFull layout">
+<div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress Flux_SlideshowAnimate Flux_SlideshowAnimate_shortarrow">
+<div class="swiper-wrapper" id="swiper-wrapper-65c6150a87a43748" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-6142.89px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="0" data-swiper-autoplay="15000" role="group" aria-label="1 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/COURREGES%20-%20AH24%20FEMME/COURREGES_FW24_tdkdgk.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/COURREGES%20-%20AH24%20FEMME/COURREGES_FW24_tdkdgk.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="1" data-swiper-autoplay="15000" role="group" aria-label="2 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/SHOWREEL_LMI_SS24_xakhlb.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/SHOWREEL_LMI_SS24_xakhlb.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="2" data-swiper-autoplay="15000" role="group" aria-label="3 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/MAISON_MARGIELA_SS24_lrwumb.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/MAISON_MARGIELA_SS24_lrwumb.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="3" data-swiper-autoplay="15000" role="group" aria-label="4 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/Louis_Vuitton_Haute_Joaillerie_2023_mmds3e.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/Louis_Vuitton_Haute_Joaillerie_2023_mmds3e.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="4" data-swiper-autoplay="15000" role="group" aria-label="5 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/NIKE_GODDESS_AWAKENED_PARRIS_GOEBEL_tegzqa.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/NIKE_GODDESS_AWAKENED_PARRIS_GOEBEL_tegzqa.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev Flux_SlideshowAnimate_slide" data-swiper-slide-index="5" data-swiper-autoplay="15000" role="group" aria-label="6 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/AUDEMARS_PIGUET_X_1017_ALYX_9SM_fy5bza.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/AUDEMARS_PIGUET_X_1017_ALYX_9SM_fy5bza.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active Flux_SlideshowAnimate_slide" data-swiper-slide-index="6" data-swiper-autoplay="15000" role="group" aria-label="7 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/LOUIS_VUITTON_HAUTE_JOAILLERIE_SLIDESHOW_ANIME_cb4gmy.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/LOUIS_VUITTON_HAUTE_JOAILLERIE_SLIDESHOW_ANIME_cb4gmy.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-duplicate-next Flux_SlideshowAnimate_slide" data-swiper-slide-index="0" data-swiper-autoplay="15000" role="group" aria-label="1 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/COURREGES%20-%20AH24%20FEMME/COURREGES_FW24_tdkdgk.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/COURREGES%20-%20AH24%20FEMME/COURREGES_FW24_tdkdgk.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide Flux_SlideshowAnimate_slide" data-swiper-slide-index="1" data-swiper-autoplay="15000" role="group" aria-label="2 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/SHOWREEL_LMI_SS24_xakhlb.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/SHOWREEL_LMI_SS24_xakhlb.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button
+</div>
+</div>
+<div class="swiper-slide Flux_SlideshowAnimate_slide" data-swiper-slide-index="2" data-swiper-autoplay="15000" role="group" aria-label="3 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/MAISON_MARGIELA_SS24_lrwumb.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/MAISON_MARGIELA_SS24_lrwumb.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide Flux_SlideshowAnimate_slide" data-swiper-slide-index="3" data-swiper-autoplay="15000" role="group" aria-label="4 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/Louis_Vuitton_Haute_Joaillerie_2023_mmds3e.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/Louis_Vuitton_Haute_Joaillerie_2023_mmds3e.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide Flux_SlideshowAnimate_slide" data-swiper-slide-index="4" data-swiper-autoplay="15000" role="group" aria-label="5 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/NIKE_GODDESS_AWAKENED_PARRIS_GOEBEL_tegzqa.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/NIKE_GODDESS_AWAKENED_PARRIS_GOEBEL_tegzqa.mp4">
+</video>
+<button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-visible swiper-slide-prev Flux_SlideshowAnimate_slide" data-swiper-slide-index="5" data-swiper-autoplay="15000" role="group" aria-label="6 / 7" style="width: 489.474px;">
+<div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/AUDEMARS_PIGUET_X_1017_ALYX_9SM_fy5bza.jpg">
+<source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/AUDEMARS_PIGUET_X_1017_ALYX_9SM_fy5bza.mp4">
+</video>
+<button type="button" class2="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo">
+<svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo">
+<path d="M0 54V0l42 27L0 54Z"><
+/path>
+</svg>
+</button>
+</div>
+</div>
+<div class="swiper-slide swiper-slide-visible swiper-slide-active Flux_SlideshowAnimate_slide" data-swiper-slide-index="6" data-swiper-autoplay="15000" role="group" aria-label="7 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl">
+<video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/LOUIS_VUITTON_HAUTE_JOAILLERIE_SLIDESHOW_ANIME_cb4gmy.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/LOUIS_VUITTON_HAUTE_JOAILLERIE_SLIDESHOW_ANIME_cb4gmy.mp4"></video><div class="SmartVideo_VideoControl_controls-bar Flux_SlideshowAnimate_bar-control"><button type="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="currentColor" width="1em" height="1em"><path d="M35.9 4.4c-3 0-5.4 2.4-5.4 5.4v30.4c0 3 2.4 5.4 5.4 5.4 3 0 5.4-2.4 5.4-5.4V9.8c0-3-2.4-5.4-5.4-5.4zm-21.8 0c-3 0-5.4 2.4-5.4 5.4v30.4c0 3 2.4 5.4 5.4 5.4 3 0 5.4-2.4 5.4-5.4V9.8c.1-3-2.4-5.4-5.4-5.4z"></path></svg><span class="sr-only">pause video</span></button></div></div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-visible swiper-slide-next Flux_SlideshowAnimate_slide" data-swiper-slide-index="0" data-swiper-autoplay="15000" role="group" aria-label="1 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/COURREGES%20-%20AH24%20FEMME/COURREGES_FW24_tdkdgk.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/COURREGES%20-%20AH24%20FEMME/COURREGES_FW24_tdkdgk.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div><div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="1" data-swiper-autoplay="15000" role="group" aria-label="2 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/SHOWREEL_LMI_SS24_xakhlb.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/SHOWREEL_LMI_SS24_xakhlb.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div><div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="2" data-swiper-autoplay="15000" role="group" aria-label="3 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/MAISON_MARGIELA_SS24_lrwumb.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/MAISON_MARGIELA_SS24_lrwumb.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div><div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="3" data-swiper-autoplay="15000" role="group" aria-label="4 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/Louis_Vuitton_Haute_Joaillerie_2023_mmds3e.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/Louis_Vuitton_Haute_Joaillerie_2023_mmds3e.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div><div class="swiper-slide swiper-slide-duplicate Flux_SlideshowAnimate_slide" data-swiper-slide-index="4" data-swiper-autoplay="15000" role="group" aria-label="5 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/NIKE_GODDESS_AWAKENED_PARRIS_GOEBEL_tegzqa.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/NIKE_GODDESS_AWAKENED_PARRIS_GOEBEL_tegzqa.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev Flux_SlideshowAnimate_slide" data-swiper-slide-index="5" data-swiper-autoplay="15000" role="group" aria-label="6 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/AUDEMARS_PIGUET_X_1017_ALYX_9SM_fy5bza.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/AUDEMARS_PIGUET_X_1017_ALYX_9SM_fy5bza.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active Flux_SlideshowAnimate_slide" data-swiper-slide-index="6" data-swiper-autoplay="15000" role="group" aria-label="7 / 7" style="width: 489.474px;"><div class="Flux_SlideshowAnimate_video SmartVideo_VideoControl"><video playsinline="" preload="metadata" poster="https://res.cloudinary.com/mazarine-digital/video/upload/q_auto,f_auto/w_1344/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/LOUIS_VUITTON_HAUTE_JOAILLERIE_SLIDESHOW_ANIME_cb4gmy.jpg"><source type="video/mp4" src="https://res.cloudinary.com/mazarine-digital/video/upload/q_90,f_mp4,c_scale,c_limit,w_1344,du_15/v1/mazarine_refonte_2022/videos/HOMEPAGE-SMARTPLAYER/LOUIS_VUITTON_HAUTE_JOAILLERIE_SLIDESHOW_ANIME_cb4gmy.mp4"></video><button type="button" class="SmartVideo_VideoControl_button-videocontrol" aria-label="Lire la vidéo"><svg width="1em" height="1em" viewBox="0 0 42 54" fill="none" xmlns="http://www.w3.org/2000/svg" class="SmartVideo_ButtonPlay_button-svg" alt="Lire la vidéo"><path d="M0 54V0l42 27L0 54Z"></path></svg></button></div></div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div><div class="swiper-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">7</span> / <span class="swiper-pagination-total">7</span></div><button type="button" class="swiper-button-prev" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-65c6150a87a43748"><span class="Icon"><svg width="1em" height="1em" viewBox="0 0 38 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M38 13.219H1m0 0 12-12m-12 12 12 12" stroke="currentColor"></path></svg><span class="sr-only">slide précédente</span></span></button><button type="button" class="swiper-button-next" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-65c6150a87a43748"><span class="Icon">
+<svg width="1em" height="1em" viewBox="0 0 38 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 12.781h37m0 0-12 12m12-12-12-12" stroke="currentColor">
+</path>
+</svg>
+<span class="sr-only">slide suivante</span>
+</span>
+</button>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true">
+</span>
+</div>
+</div>
